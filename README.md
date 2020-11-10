@@ -6,8 +6,7 @@
   </a>
 
   <h3 align="center">[ RALV Team. ]</h3>
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=dd&logo=discord&style=flat-square)](https://discord.gg/pFd82RR)
-
+<img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=green&label=RALV%20Team.&logo=RALV&logoColor=green&style=for-the-badge">
 <hr>
 <h3 align="center">Tools</h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img
