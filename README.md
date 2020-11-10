@@ -7,7 +7,7 @@
 
 <h3 align="center">[ RALV Team. ]</h3>
 
-<h3 align="center"><img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge"></h3>
+<h3 align="center"><a href="https://github.com/Se1w"><img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge"></h3>
 
 <hr>
 <h3 align="center">Tools</h3>
