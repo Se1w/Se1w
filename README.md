@@ -13,7 +13,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=vue&layout=compact" alt="Seefw" /></p>
 
 <img src="https://i.ibb.co/YpStMrc/image.png" alt="Logo" width="900" height="10">
-<h3 align="center">[ TOOLS I USE ]</h3>
+<img src="https://i.ibb.co/177Fky2/TIU.png" alt="Logo" width="900" height="10">
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img
 src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img
 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> <img
