@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Se1w">
-    <img src="https://i.ibb.co/Rzw871Q/grenn.png" alt="Logo" width="304" height="263">
+    <img src="https://i.ibb.co/Rzw871Q/grenn.png" alt="Logo" width="152" height="131">
   </a>
 
   <h3 align="center">--</h3>
