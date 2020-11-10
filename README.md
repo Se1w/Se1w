@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Se1w">
-    <img src="https://i.ibb.co/Rzw871Q/grenn.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/Rzw871Q/grenn.png" alt="Logo" width="1218" height="1054">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
