@@ -13,9 +13,8 @@
 
 
 
-
-<p align="center">&nbsp;<img align="center" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Sefw" data-color="#6bc398" data-emoji="💚"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></p>
-
+<p align="center">
+<a href="https://www.buymeacoffee.com/Sefw" target="_blank"><img src="https://i.ibb.co/Fsf7xGv/button.png" alt="Support Me" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
