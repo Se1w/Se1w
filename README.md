@@ -9,7 +9,6 @@
 
 <h3 align="center"><a href="https://discord.gg/pFd82RR"><img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge"></h3>
 
-<h3 align="center">Statistics</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=vue&layout=compact" alt="Sefw" /></p>
 
