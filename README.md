@@ -19,7 +19,7 @@
   </a>
 
 
-<p align="center">&nbsp;<a href="https://github.com/Se1w"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
+<p align="center">&nbsp;<a href="https://github.com/Se1w"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=false" alt="Sefw" /></p>
 <p align="center">&nbsp;<a href="https://github.com/Se1w"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=vue&layout=compact" alt="Seefw" /></p>
 <p align="center"><a href="https://github.com/Se1w"><img src="https://i.ibb.co/YpStMrc/image.png" alt="Logo" width="900" height="10">
 <p align="center"><a href="https://github.com/Se1w"><img src="https://i.ibb.co/177Fky2/TIU.png" alt="Logo" width="200" height="50">
