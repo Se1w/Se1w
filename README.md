@@ -11,6 +11,3 @@ src="https://i.ibb.co/RSysRkW/yellow-sky-google-chrome-installation-logo-removeb
 
 <hr>
 
-<h3 align="center">Statistics</h3>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Se1w)](https://github.com/Se1w/github-readme-stats)
-<p align="center">&bg-red;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=dracula&layout=compact" alt="Sefw" /></p>
