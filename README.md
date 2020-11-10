@@ -10,4 +10,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35
 
 <h3 align="center">Statistics</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sefw&show_icons=true&theme=dracula" alt="Sefw" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iColtz&show_icons=true&theme=dracula&layout=compact" alt="iColtz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sefw&show_icons=true&theme=dracula&layout=compact" alt="Sefw" /></p>
