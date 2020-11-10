@@ -1,4 +1,3 @@
-[align="center ![My Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/pFd82RR)
 
 <br />
 <p align="center">
@@ -6,7 +5,8 @@
     <img src="https://i.ibb.co/Rzw871Q/grenn.png" alt="Logo" width="152" height="131">
   </a>
 
-  <h3 align="center">[ RALV Team. ] Sefw</h3>
+  <h3 align="center">[ RALV Team. ]</h3>
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=RALV Team.&logo=discord&style=flat-square)](https://discord.gg/pFd82RR)
 
 <hr>
 <h3 align="center">Tools</h3>
