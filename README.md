@@ -7,7 +7,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35
 src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" alt="PuTTY" width="40" height="40"/> <img
 src="https://www.photoshop.com/en/images/apps/photoshop.png" alt="APS" width="40" height="40"/> <img
 src="https://i.ibb.co/RSysRkW/yellow-sky-google-chrome-installation-logo-removebg-preview.png" alt="GC" width="40" height="40"/> <img
-
-
 <hr>
 
+<h3 align="center">Statistics</h3>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iColtz&show_icons=true&theme=dracula&layout=compact" alt="iColtz" /></p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
