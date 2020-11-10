@@ -1,3 +1,5 @@
+[![Discord][contributors-shield]][https://discord.gg/pFd82RR]
+
 <br />
 <p align="center">
   <a href="https://github.com/Se1w">
