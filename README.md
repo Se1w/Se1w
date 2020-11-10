@@ -7,7 +7,7 @@
 
   <h3 align="center">[ RALV Team. ]</h3>
 
-<img align="center" alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge">
+<img align="center">src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge">
 <hr>
 <h3 align="center">Tools</h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img
