@@ -8,6 +8,8 @@
 
 
 <h3 align="center"><a href="https://discord.gg/pFd82RR"><img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge"></h3>
+<p align="center">
+### discord server not published yet
 
 
 
