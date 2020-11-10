@@ -11,5 +11,4 @@ src="https://i.ibb.co/RSysRkW/yellow-sky-google-chrome-installation-logo-removeb
 
 <h3 align="center">Statistics</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iColtz&show_icons=true&theme=dracula&layout=compact" alt="iColtz" /></p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=vue&layout=compact" alt="Sefw" /></p>
