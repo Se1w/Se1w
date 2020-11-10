@@ -1,5 +1,6 @@
-<h3 style="color:#ff0000">Danger</h3>
-<h1 align="center">Hello 👋</h1>
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 
 <hr>
 <h3 align="center">Tools</h3>
