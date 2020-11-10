@@ -14,7 +14,9 @@
 
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/Sefw" target="_blank"><img src="https://i.ibb.co/Fsf7xGv/button.png" alt="Support Me" style="height: 10px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/Sefw">
+    <img src="https://i.ibb.co/Fsf7xGv/button.png" alt="Logo" width="272" height="65">
+  </a>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
