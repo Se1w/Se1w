@@ -5,7 +5,7 @@
     <img src="https://i.ibb.co/Rzw871Q/grenn.png" alt="Logo" width="152" height="131">
   </a>
 
-<a href="https://github.com/Se1w">[ RALV Team. ]</h3>
+<h3 align="center">[ RALV Team. ]</h3>
 
 <h3 align="center"><img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge"></h3>
 
