@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/Sefw">
-    <img src="https://i.ibb.co/Fsf7xGv/button.png" alt="Logo" width="272" height="65">
+    <img src="https://i.ibb.co/Fsf7xGv/button.png" alt="Logo" width="136" height="32">
   </a>
 
 
