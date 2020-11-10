@@ -6,7 +6,7 @@
   </a>
 
   <h3 align="center">[ RALV Team. ]</h3>
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=RALV Team.&logo=discord&style=flat-square)](https://discord.gg/pFd82RR)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=dd&logo=discord&style=flat-square)](https://discord.gg/pFd82RR)
 
 <hr>
 <h3 align="center">Tools</h3>
