@@ -10,8 +10,7 @@
 
 <h3 align="center"><a href="https://discord.gg/pFd82RR"><img alt="Discord" src="https://img.shields.io/discord/740116459627217003?color=brightgreen&label=My%20Discord%20Server&logo=LOGO&logoColor=brightgreen&style=for-the-badge"></h3>
 
-<a href="https://www.buymeacoffee.com/Sefw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+<h3 align="center"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Sefw" data-color="#6bc398" data-emoji="💚"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=vue&layout=compact" alt="Seefw" /></p>
