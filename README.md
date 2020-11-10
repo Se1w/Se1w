@@ -1,6 +1,3 @@
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
 
 <hr>
 <h3 align="center">Tools</h3>
@@ -15,5 +12,5 @@ src="https://i.ibb.co/RSysRkW/yellow-sky-google-chrome-installation-logo-removeb
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sefw&show_icons=true&theme=dracula" alt="Sefw" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sefw&show_icons=true&theme=dracula&layout=compact" alt="Sefw" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&show_icons=true&theme=dracula" alt="Sefw" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Se1w&show_icons=true&theme=dracula&layout=compact" alt="Sefw" /></p>
