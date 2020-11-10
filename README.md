@@ -1,4 +1,4 @@
-[![My Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/pFd82RR)
+[align="center ![My Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/pFd82RR)
 
 <br />
 <p align="center">
