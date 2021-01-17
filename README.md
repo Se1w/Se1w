@@ -22,7 +22,7 @@
 <p align="center">&nbsp;<a href="https://github.com/Se1w"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Se1w&theme=vue&show_icons=true" alt="Sefw" /></p>
 <p align="center"><a href="https://github.com/Se1w"><img src="https://i.ibb.co/YpStMrc/image.png" alt="Logo" width="900" height="10">
 <p align="center"><a href="https://github.com/Se1w"><img src="https://i.ibb.co/177Fky2/TIU.png" alt="Logo" width="200" height="50">
-<p align="center"><a href="https://github.com/Se1w"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<p align="center"><a href="https://github.com/Se1w"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
 <a href="https://github.com/Se1w"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
 <a href="https://github.com/Se1w"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 <a href="https://github.com/Se1w"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
