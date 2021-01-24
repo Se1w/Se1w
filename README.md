@@ -31,3 +31,5 @@
 <a href="https://github.com/Se1w"><img src="https://i.ibb.co/RSysRkW/yellow-sky-google-chrome-installation-logo-removebg-preview.png" alt="GC" width="40" height="40"/> 
 
 <hr>
+<a href="https://github.com/Se1w"><p align="center"><img src="https://i.ibb.co/YpStMrc/image.png" alt="Logo" width="900" height="10">
+
