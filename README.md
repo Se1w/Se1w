@@ -12,12 +12,12 @@
 
 
 
-
+/*
 <p align="center">
   <a href="https://www.buymeacoffee.com/Sefw">
     <img src="https://i.ibb.co/Fsf7xGv/button.png" alt="Logo" width="136.5" height="32.5">
   </a>
-
+*/
 
 <p align="center"><a href="https://github.com/Se1w"><img src="https://i.ibb.co/177Fky2/TIU.png" alt="Logo" width="200" height="50">
 <p align="center"><a href="https://github.com/Se1w"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
